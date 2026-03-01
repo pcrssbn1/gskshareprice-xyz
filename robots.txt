@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gskshareprice.xyz/sitemap.xml
